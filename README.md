@@ -47,7 +47,7 @@ The floor plan shows the typical layout of one floor of CT Tower.
 | DIMENSIONS | All dimension lines and text |
 | TEXT | Room labels and annotations |
 
-![Floor Plan](assets/FloorPlan.PNG)
+![Floor Plan](assets/placeholder/FloorPlan.PNG)
 
 ---
 
@@ -72,11 +72,11 @@ The electrical plan shows the full wiring distribution across the floor.
 | $ symbol | Single Pole Switch |
 | $₃ symbol | 2-Way Switch |
 
-![Electrical Plan](assets/ElectricalPlan.PNG)
+![Electrical Plan](assets/placeholder/ElectricalPlan.PNG)
 
-![Electrical Panel Detail](assets/ElecricalPlanPanelBox.PNG)
+![Electrical Panel Detail](assets/placeholder/ElecricalPlanPanelBox.PNG)
 
-![Electrical Key](assets/ElecricalPlanKey.PNG)
+![Electrical Key](assets/placeholder/ElecricalPlanKey.PNG)
 
 ---
 
@@ -103,13 +103,13 @@ The plumbing plan shows the complete water supply and drainage system.
 | CO | Clean Out |
 
 
-![Plumbing Plan](assets/PlumbingPlan.PNG)
+![Plumbing Plan](assets/placeholder/PlumbingPlan.PNG)
 
-![Plumbing Left Section](assets/PlumbingPlanLeft.PNG)
+![Plumbing Left Section](assets/placeholder/PlumbingPlanLeft.PNG)
 
-![Plumbing Right Section](assets/PlumbingPlanRight.PNG)
+![Plumbing Right Section](assets/placeholder/PlumbingPlanRight.PNG)
 
-![Plumbing Key](assets/PlumbingPlanKey.PNG)
+![Plumbing Key](assets/placeholder/PlumbingPlanKey.PNG)
 
 ---
 
@@ -135,9 +135,9 @@ The network plan shows complete Wi-Fi coverage and data cabling.
 | Dashed green circle | AP Coverage Range |
 
 
-![WiFi Plan](assets/WIFIPlan.PNG)
+![WiFi Plan](assets/placeholder/WIFIPlan.PNG)
 
-![WiFi Key](assets/WIFIPlanKey.PNG)
+![WiFi Key](assets/placeholder/WIFIPlanKey.PNG)
 
 ---
 
